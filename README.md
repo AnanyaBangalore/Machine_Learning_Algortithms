@@ -1,2 +1,6 @@
 # Machine_Learning_Algortithms
-This repository contains my lab files for Machine Learning algorithms. These lab files provide a valuable resource for anyone interested in learning about Machine Learning algorithms. They are suitable for students and researchers who are interested in exploring and applying Machine Learning in their work.
+My machine learning lab files can be found in this repository. The files were produced as part of my coursework and comprise source code, data sets, and output files.
+
+Each lab file offers a brief summary of the project's goals and functionality and corresponds to a particular Machine Learning principle or application. The files are arranged according to lab sessions and include information on supervised learning, unsupervised learning, and deep learning, among other topics.
+
+Documentation that gives a summary of the algorithms employed and the outcomes is also included in the lab files. Anyone interested in machine learning or wishing to increase their knowledge and proficiency in this field can use this documentation as a reference manual.
